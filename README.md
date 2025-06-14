@@ -71,7 +71,6 @@ follow me on the linkedin ![LinkedIn]-www.linkedin.com/in/ujjwal-sharma-3a139527
 ## 🚀 Projects
 | Project Name         | Description                                               | Live Link |
 |----------------------|-----------------------------------------------------------|-----------|
-| **[Pixora](https://pixora-s-frontend.vercel.app/)**         | An AI-powered frontend generator from UI screenshots.     | [Live](https://pixora-s-frontend.vercel.app/)  |
 | **[Viva](https://viva-an-ai-receptionist.vercel.app/)**     | A voice-calling AI receptionist for clinics and hospitals.| [Live](https://viva-an-ai-receptionist.vercel.app/) |
 | **[Spoon and Fork](https://spoon-and-fork.vercel.app/)**    | A platform to explore food recipes.                      | [Live](https://spoon-and-fork.vercel.app/)     |
 | **[SAKSHAM](https://saksham-frontend.vercel.app/)**         | An AI-powered platform to generate personalized courses.  | [Live](https://saksham-frontend.vercel.app/)   |
