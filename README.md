@@ -86,22 +86,46 @@ follow me on the linkedin ![LinkedIn]-www.linkedin.com/in/ujjwal-sharma-3a139527
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzzwalSharma&show_icons=true&locale=en&theme=radical" alt="Ujjwal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UzzwalSharma&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ujjwal's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UzzwalSharma&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=UzzwalSharma&theme=radical&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UzzwalSharma&layout=compact&theme=radical" />
 </p>
 
 ---
 
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzzwalSharma&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📌 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzzwalSharma&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UzzwalSharma&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UzzwalSharma&theme=radical" />
+</p>
+
 ## 🌐 Connect with Me!
 <p align="left">
-  <a href="https://github.com/UzzwalSharma" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ujjwal Sharma GitHub" height="30" width="40" />
+  <a href="https://github.com/UzzwalSharma">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/ujjwal-sharma-3a1395279" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal sharma" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ujjwal-sharma-3a1395279">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC0stejJNH-K2pRkqr9fjl0g" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ujjwal sharma" height="30" width="40" />
+  <a href="https://www.youtube.com/channel/UC0stejJNH-K2pRkqr9fjl0g">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
 </p>
 
