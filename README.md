@@ -18,7 +18,7 @@ follow me on the linkedin ![LinkedIn]-www.linkedin.com/in/ujjwal-sharma-3a139527
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzzwalsharma" alt="uzzwalsharma" /></a> </p>
 
 ## 🌟 About Me
-- 🔭 Currently working on **SAKSHAM**: An AI-powered course generator platform.
+- 🔭 Currently looking for full time job opportunites.
 - 🌱 Exploring **THE WORLD OF TECH**.
 - 💬 Ask me about **Webdevelopment**
 - 📫 How to reach me **Uzzwal7505@gmail.com**
