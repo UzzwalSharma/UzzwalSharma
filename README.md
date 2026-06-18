@@ -73,13 +73,14 @@ follow me on the linkedin ![LinkedIn]-www.linkedin.com/in/ujjwal-sharma-3a139527
 ## 🚀 Projects
 | Project Name         | Description                                               | Live Link |
 |----------------------|-----------------------------------------------------------|-----------|
+| **[Escape](https://www.tryescape.online/)**        | A dopamine detox and meditation app.          | [Live](tryescape.online)    |
 | **[Viva](https://viva-an-ai-receptionist.vercel.app/)**     | A voice-calling AI receptionist for clinics and hospitals.| [Live](https://viva-an-ai-receptionist.vercel.app/) |
 | **[Spoon and Fork](https://spoon-and-fork.vercel.app/)**    | A platform to explore food recipes.                      | [Live](https://spoon-and-fork.vercel.app/)     |
 | **[SAKSHAM](https://saksham-frontend.vercel.app/)**         | An AI-powered platform to generate personalized courses.  | [Live](https://saksham-frontend.vercel.app/)   |
 | **[The Silk Route](https://silk-route-frontend.vercel.app/)** | An e-commerce platform offering seamless shopping.        | [Live](https://silk-route-frontend.vercel.app/) |
 | **[Syntaxy](https://syntaxy-aibot.vercel.app/)**             | An AI chatbot for interactive conversations.              | [Live](https://syntaxy-aibot.vercel.app/)       |
 | **[Zayka](https://zayka-1.onrender.com)**                   | A food blog showcasing recipes and food stories.          | [Live](https://zayka-1.onrender.com)           |
-| **[Falcon AI](https://falcon-ai-seven.vercel.app/)**        | A platform to transform resume creation with AI.          | [Live](https://falcon-ai-seven.vercel.app/)    |
+
 
 
 ---
